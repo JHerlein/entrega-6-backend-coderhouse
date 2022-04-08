@@ -1,0 +1,32 @@
+[
+  {
+    "author": "aserejeo@yahoo.com.ar",
+    "text": "como va?",
+    "time": "2022-04-05T02:33:43.300Z"
+  },
+  {
+    "author": "js@gmail.com",
+    "text": "que ondi",
+    "time": "2022-04-05T02:33:57.859Z"
+  },
+  {
+    "author": "jol@hotmail.com",
+    "text": "que onda perroooo",
+    "time": "2022-04-05T02:34:05.031Z"
+  },
+  {
+    "author": "asd@hotmail.com",
+    "text": "holix",
+    "time": "2022-04-05T02:46:30.202Z"
+  },
+  {
+    "author": "asd@hotmail.com",
+    "text": "holi",
+    "time": "2022-04-05T14:23:50.318Z"
+  },
+  {
+    "author": "asd@hotmail.com",
+    "text": "123",
+    "time": "2022-04-05T17:16:25.270Z"
+  }
+]
